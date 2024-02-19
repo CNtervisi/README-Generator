@@ -1,8 +1,8 @@
 
       
-  # project 1
+  # testProject
   
-  ![License](https://img.shields.io/badge/license-BSD-goldenrod)
+  ![License](https://img.shields.io/badge/license-MIT-blue)
   
   ## Table of Contents
   
@@ -16,31 +16,31 @@
   
   ## Description 
   
-  okner
+  This is a test project
   
   ## Installation 
   
-  bill
+  clone repo > npm install
   
   ## Usage 
   
-  info
+  This app can be used to generate a professional README template for users in a few seconds
   
   ## Contributing 
   
-  karinpdih
+  Test
   
   ## Tests 
   
-  qia motren  
+  No Instructions  
   
   ## License
   
-  BSD
+  MIT
   
   ## Questions?
   
   ### Github: [cntervisi](https://github.com/cntervisi)
   
-  ### Reach Me Via Email: c.ntervisi@outlook.com
+  ### Reach Me Via Email: cntervisi@outlook.com
   
