@@ -1,6 +1,6 @@
 
       
-  # testProject
+  # README GENERATOR
   
   ![License](https://img.shields.io/badge/license-MIT-blue)
   
@@ -16,23 +16,23 @@
   
   ## Description 
   
-  This is a test project
+  Test description
   
   ## Installation 
   
-  clone repo > npm install
+  Test installation
   
   ## Usage 
   
-  This app can be used to generate a professional README template for users in a few seconds
+  Test information
   
   ## Contributing 
   
-  Test
+  Test contribution guidelines
   
   ## Tests 
   
-  No Instructions  
+  Test instructions  
   
   ## License
   
@@ -42,5 +42,5 @@
   
   ### Github: [cntervisi](https://github.com/cntervisi)
   
-  ### Reach Me Via Email: cntervisi@outlook.com
+  ### Reach Me Via Email: c.ntervisi@outlook.com
   
